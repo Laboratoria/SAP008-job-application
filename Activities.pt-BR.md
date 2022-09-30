@@ -22,7 +22,7 @@
       <ul>
         <li>Readme do projeto</li>
         <li>
-          <a href="https://www.loom.com/share/eff20dfbb64a488abb6181acd95a8dbf">Pílula: Como funciona um processo de seleção</a>
+          <a href="https://www.loom.com/share/2f548761d40749f89f02911840dc7c11">Pílula: Como funciona um processo de seleção</a>
           <a href="https://docs.google.com/presentation/d/1fJFVEgBx-xO9lTaXMDMposMpfcoRX6FqWwWi2n9rCyU/edit#slide=id.p1">
             (PPT)
           </a>
@@ -136,7 +136,7 @@
           </a>
         </li>
         <li>
-          <a href="https://drive.google.com/file/d/1BJz3dWOzIUAoTyCclnKpZlQRRAZ4vxv_/view?usp=sharing">
+          <a href="https://www.loom.com/share/8d7ab5f0b0a849f599d97d7c3212bb18">
             Píldora: Negociación salario y condiciones laborales.
           </a>
           <a href="https://docs.google.com/presentation/d/1bdxzpvUCxvIphQXvM2DkdcSdtRh43JjHUB-wbOIQJog/edit#slide=id.p1">
