@@ -171,7 +171,7 @@
        Sessões de revisão de ferramentas e simulação da entrevista de RH
       </b>
     </td>
-    <td rowspan="2"><!-- aqui la fecha --></td>
+    <td rowspan="2">13/10 às 18h00 ou 20/10 às 18h00</td>
     <td rowspan="2">
       <b>Sessão de revisão e feedback de CV + LinkedIn</b>
       <p>
@@ -223,7 +223,7 @@
     </td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>17 a 20/10 ou 24 a 28/10</td>
     <td>
     <b>Sessão de acompanhamento à incorporação do feedback do CV + LinkedIn</b>
       <p>
@@ -242,7 +242,7 @@
     </td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>31/10 a 11/11</td>
     <td>
       <b>Simulação de entrevista de RH</b>
       <p>
