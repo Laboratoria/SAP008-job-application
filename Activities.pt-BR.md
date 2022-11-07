@@ -341,7 +341,7 @@
     <td>
       <ul>
         <li>
-         <a href="https://www.youtube.com/watch?v=vQ_EBqgUR0c">
+         <a href="https://youtu.be/_w5w46qSV0A">
             Pílula: Recomendações para criar seu perfil no Github.
           </a>
           <a href="https://docs.google.com/presentation/d/1Ntaj8IuE4Fcbe6Pbwt1bZwu2f6brA468oKmK6Qefs5s/edit#slide=id.g9d12fce375_0_22">
@@ -372,8 +372,8 @@
     <td>
       <ul>
         <li>
-          <a href="https://www.youtube.com/watch?v=0NMil00HKEU">
-            Pílula: Práticas recomendadas em entrevistas tech.
+          <a href="https://youtu.be/rY8E1QmiQ0s">
+            Pílula: Práticas recomendadas em entrevistas tech (com legenda em português).
           </a>
           <a href="https://docs.google.com/presentation/d/1a-vn-o2TKS2csszuBUyw8rcJQY40HB9Ly9ryLE_ImOQ/edit?usp=sharing">
             (PPT)
